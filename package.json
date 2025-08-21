@@ -28,14 +28,14 @@
 				"name": "switch-scene",
 				"title": "シーン切り替え",
 				"width": 2,
-				"file": "switchscene.html",
+				"file": "SwitchScene.html",
 				"workspace": "Example",
 				"headerColor": "#525F78"
 			}
 		],
 		"graphics": [
 			{
-				"file": "obscontrol.html",
+				"file": "ObsControl.html",
 				"width": 1920,
 				"height": 1080,
 				"singleInstance": false
